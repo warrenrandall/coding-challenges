@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Wars", "Robot Wars.csproj", "{2F7D6480-1803-4DD2-ACEE-65C8AF709DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Wars.Tests", "..\Robot Wars.Tests\Robot Wars.Tests.csproj", "{AFDB2938-BA10-4469-8BEE-6EA3FC1B1730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F7D6480-1803-4DD2-ACEE-65C8AF709DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7D6480-1803-4DD2-ACEE-65C8AF709DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7D6480-1803-4DD2-ACEE-65C8AF709DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7D6480-1803-4DD2-ACEE-65C8AF709DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDB2938-BA10-4469-8BEE-6EA3FC1B1730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDB2938-BA10-4469-8BEE-6EA3FC1B1730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDB2938-BA10-4469-8BEE-6EA3FC1B1730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDB2938-BA10-4469-8BEE-6EA3FC1B1730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0A9DAC-2AF9-4E48-958C-2AD790857016}
+	EndGlobalSection
+EndGlobal
